@@ -1,1 +1,1 @@
-# Hi ,I'm Vaani-Pathariya ☺️
+# Hi ,I'm Vaani Pathariya ☺️
