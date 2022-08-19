@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Vaani-pathariya/Vaani-pathariya/blob/f916ff4906910b2f378d2cffee5610bb46609da6/White%20&%20Grey%20Modern%20Business%20Consultant%20LinkedIn%20Banner.png)
+![MasterHead](https://github.com/Vaani-pathariya/Vaani-pathariya/blob/b778efcc38670b70552dec3003f53115ede6524d/Blue%20&%20Black%20Modern%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hello 👋, I'm Vaani Pathariya</h1>
 <h3 align="center">A frontend developer and an Open Source maniac from India who has an indent towards Web 3.0 and Artificial Intelligence</h3>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"  alt="Let's find solutions" width="400">
