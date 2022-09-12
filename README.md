@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vaani-pathariya](https://github.com/Vaani-pathariya)
 
-- 💬 Ask me about **Frontend, Blockchain ,AIML**
+- 💬 Ask me about **Full Stack and AIML**
 
 - 📫 How to reach me **vaanipathariya@gmail.com**
 
