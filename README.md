@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Vaani-pathariya/Vaani-pathariya/blob/9901262e99444780dbb46a788b17afe2d564f9a2/Blue%20&%20Black%20Modern%20Technology%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hello 👋, I'm Vaani Pathariya</h1>
-<h3 align="center">A frontend developer and an Open Source maniac from India who has an indent towards Web 3.0 and Artificial Intelligence</h3>
+<h3 align="center">A fullstack developer and an Open Source maniac from India who has an indent towards Artificial Intelligence</h3>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"  alt="Let's find solutions" width="400">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaani-pathariya" alt="vaani-pathariya" /></a> </p>
