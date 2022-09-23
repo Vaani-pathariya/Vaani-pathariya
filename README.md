@@ -54,6 +54,6 @@
 <h2>Eduction: </h2>
 <ul>
    <li>Currently I'm in second year pursuing BTECH from JSS Academy of Technical Education </li>
-  <li>Completed 10th grade from Amity International School</li>
   <li>Completed 12th grade from Amity International School</li>
+  <li>Completed 10th grade from Amity International School</li>
 </ul>
