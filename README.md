@@ -51,7 +51,7 @@
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vaani-pathariya&show_icons=true&theme=radical&locale=en&layout=compact" alt="vaani-pathariya" /></p>
  <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vaani-pathariya&theme=dark" alt="vaani-pathariya" /></p>
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=vaani-pathariya&show_icons=true&theme=tokyonight&title_color=f31260&text_color=69e6f7&bg_color=080808&locale=en" alt="vaani-pathariya" /></p>
-<h2>Eduction: </h2>
+<h2>Education: </h2>
 <ul>
    <li>Currently I'm in second year pursuing BTECH from JSS Academy of Technical Education </li>
   <li>Completed 12th grade from Amity International School</li>
