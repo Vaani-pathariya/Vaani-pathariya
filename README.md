@@ -56,18 +56,18 @@
 <p>
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
 </p>
- <h2>Hobbies :relaxed:</h2>
+ <h2>HOBBIES :relaxed:</h2>
  <ul><li>Reading Books</li>
   <li>Painting and drawing</li>
   <li>Writing</li>
  </ul>
- <h2>Data Structures and Algorithms</h2>
+ <h2>DATA STRUCTURES AND ALGORITHMS</h2>
  <p>To be frank ,my major involvement is in the development side ,but still I try to study those as well from time to time. I have provided with my account links of leetcode and codechef if you are interested to have a look.:point_up:</p>
-<h2 align="left">Numbers:</h2>
+<h2 align="left">NUMBERS:</h2>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vaani-pathariya&show_icons=true&theme=radical&locale=en&layout=compact" alt="vaani-pathariya" /></p>
  <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vaani-pathariya&theme=dark" alt="vaani-pathariya" /></p>
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=vaani-pathariya&show_icons=true&theme=tokyonight&title_color=f31260&text_color=69e6f7&bg_color=080808&locale=en" alt="vaani-pathariya" /></p>
-<h2>Education: </h2>
+<h2>EDUCATION: </h2>
 <ul>
    <li>Currently I'm in second year pursuing BTECH from JSS Academy of Technical Education </li>
   <li>Completed 12th grade from Amity International School</li>
