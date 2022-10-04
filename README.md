@@ -64,9 +64,9 @@
  <h2>DATA STRUCTURES AND ALGORITHMS</h2>
  <p>To be frank ,my major involvement is in the development side ,but still I try to study those as well from time to time. I have provided with my account links of leetcode and codechef if you are interested to have a look.:point_up:</p>
 <h2 align="left">NUMBERS:</h2>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vaani-pathariya&show_icons=true&theme=radical&locale=en&layout=compact" alt="vaani-pathariya" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=Vaani-Pathariya&show_icons=true&theme=tokyonight" alt="vaani-pathariya" /></p>
  <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vaani-pathariya&theme=dark" alt="vaani-pathariya" /></p>
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=vaani-pathariya&show_icons=true&theme=tokyonight&title_color=f31260&text_color=69e6f7&bg_color=080808&locale=en" alt="vaani-pathariya" /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaani-Pathariya&layout=compact" alt="vaani-pathariya" /></p>
 <h2>EDUCATION: </h2>
 <ul>
    <li>Currently I'm in second year pursuing BTECH from JSS Academy of Technical Education </li>
