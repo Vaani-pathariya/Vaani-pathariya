@@ -11,7 +11,6 @@
 
 [![Twitter](https://img.shields.io/badge/VaaniPathariya-Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/VaaniPathariya)
 [![LinkedIn](https://img.shields.io/badge/VaaniPathariya-linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaani-pathariya-443888223/)
-[![Instagram](https://img.shields.io/badge/VaaniPathariya-Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sputnikstroke/)
 [![Kaggle](https://img.shields.io/badge/VaaniPathariya-Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vaanipathariya)
 [![LeetCode](https://img.shields.io/badge/VaaniPathariya-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/quantumm_/)
 [![CodeChef](https://img.shields.io/badge/VaaniPathariya-CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/vaani_pathariy)
