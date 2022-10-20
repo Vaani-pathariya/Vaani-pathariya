@@ -9,7 +9,7 @@
     <em style="position: relative; bottom: 7px;">Machine Learning and Devops enthusiast</em>
 </em></p>
 
-[![Twitter](https://img.shields.io/badge/VaaniPathariya-Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/VaaniPathariya)
+[![Twitter](https://img.shields.io/badge/VaaniPathariya-Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/PathariyaVaani)
 [![LinkedIn](https://img.shields.io/badge/VaaniPathariya-linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaani-pathariya-443888223/)
 [![Instagram](https://img.shields.io/badge/VaaniPathariya-Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sputnikstroke/)
 [![Kaggle](https://img.shields.io/badge/VaaniPathariya-Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vaanipathariya)
