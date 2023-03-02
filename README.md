@@ -32,7 +32,9 @@
 
 - ⚡ Fun fact **I love challenges**
 <p align="left">
-
+<h2 align="left">HACKATHONS:</h2>
+- Mhacks<br>
+- Hack around the world :MLH
 <h2 align="left">LANGUAGES AND TOOLS:</h2>
 <h3>Programming Languages</h3>
 <p>
