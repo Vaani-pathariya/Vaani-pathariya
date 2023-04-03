@@ -32,9 +32,6 @@
 
 - ⚡ Fun fact **I love challenges**
 <p align="left">
-<h2 align="left">HACKATHONS:</h2>
-- Mhacks<br>
-- Hack around the world :MLH
 <h2 align="left">LANGUAGES AND TOOLS:</h2>
 <h3>Programming Languages</h3>
 <p>
@@ -60,6 +57,9 @@
 <p>
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
 </p>
+<h2 align="left">HACKATHON LOG:</h2>
+- MHACKS15 <a href=https://github.com/Vaani-pathariya/Aerofly><b>Here</b></a> <br>
+- Hack Around the World (MLH)  <a href=https://github.com/Vaani-pathariya/Dialect><b>Here</b></a>
  <h2>HOBBIES :relaxed:</h2>
  <ul><li>Reading Books</li>
   <li>Painting and drawing</li>
