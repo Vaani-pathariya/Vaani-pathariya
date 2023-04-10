@@ -59,7 +59,8 @@
 </p>
 <h2 align="left">HACKATHON LOG:</h2>
 - MHACKS15 <a href=https://github.com/Vaani-pathariya/Aerofly><b>Here</b></a> <br>
-- Hack Around the World (MLH)  <a href=https://github.com/Vaani-pathariya/Dialect><b>Here</b></a>
+- Hack Around the World (MLH)  <a href=https://github.com/Vaani-pathariya/Dialect><b>Here</b></a><br>
+- Google Solution Challenge <a href=https://github.com/Vaani-pathariya/Education><b>Here</b></a><br>
  <h2>HOBBIES :relaxed:</h2>
  <ul><li>Reading Books</li>
   <li>Painting and drawing</li>
