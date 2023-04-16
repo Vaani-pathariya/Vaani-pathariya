@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available on **[Github](https://github.com/Vaani-pathariya)**
 
-- Find my Technical Blog **[Here](https://vaanitechdiaries.hashnode.dev/)**
+- Find my Technical Blog **[Here](https://thetechdiaries.hashnode.dev/)**
 
 - 💬 Ask me about **web2.0 and AI-ML**
 
