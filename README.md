@@ -24,6 +24,8 @@
 
 - 👨‍💻 All of my projects are available on **[Github](https://github.com/Vaani-pathariya)**
 
+- Find my Technical Blog **[Here](https://vaanitechdiaries.hashnode.dev/)**
+
 - 💬 Ask me about **web2.0 and AI-ML**
 
 - 📫 Let's Connect **[Here](https://www.linkedin.com/in/vaani-pathariya-443888223/)**
@@ -61,7 +63,7 @@
 - MHACKS15 <a href=https://github.com/Vaani-pathariya/Aerofly><b>Here</b></a> <br>
 - Hack Around the World (MLH)  <a href=https://github.com/Vaani-pathariya/Dialect><b>Here</b></a><br>
 - Google Solution Challenge <a href=https://github.com/Vaani-pathariya/Education><b>Here</b></a><br>
-- Trident Hacks
+- Trident Hacks Round 1 winner
  <h2>HOBBIES :relaxed:</h2>
  <ul><li>Reading Books</li>
   <li>Painting and drawing</li>
