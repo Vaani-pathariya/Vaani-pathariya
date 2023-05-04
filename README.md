@@ -16,7 +16,6 @@
 [![LeetCode](https://img.shields.io/badge/VaaniPathariya-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/quantumm_/)
 [![CodeChef](https://img.shields.io/badge/VaaniPathariya-CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/vaani_pathariy)
 <a href="https://github.com/Vaani-pathariya"> ![GitHub followers](https://img.shields.io/github/followers/Vaani-Pathariya?label=Follow&style=social)</a>
-![](https://visitor-badge.glitch.me/badge?page_id=Vaani-pathariya.Vaani-pathariya)
 <h2 align="left">ABOUT ME 😉:</h2>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"  alt="Let's find solutions" width="375" align="right">
 
