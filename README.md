@@ -29,7 +29,7 @@
 
 - 📫 Let's Connect **[Here](https://www.linkedin.com/in/vaani-pathariya-443888223/)**
 
--  View my resume **[Here](https://equinox-echidna-687.notion.site/Vaani-Pathariya-bb082a51f2b848e79369d85c736fb175)** 
+-  View my resume **[Here](https://docs.google.com/document/d/1vorCENu6A8OMq5tAMm3rX4TqfKKBXIl6Ooz6uWzTC3c/edit?usp=sharing)** 
 
 - ⚡ Fun fact **I love challenges**
 <p align="left">
