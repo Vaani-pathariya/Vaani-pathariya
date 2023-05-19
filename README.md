@@ -29,7 +29,7 @@
 
 - 📫 Let's Connect **[Here](https://www.linkedin.com/in/vaani-pathariya-443888223/)**
 
--  View my resume **[Here](https://docs.google.com/document/d/1vorCENu6A8OMq5tAMm3rX4TqfKKBXIl6Ooz6uWzTC3c/edit?usp=sharing)** 
+-  View my resume **[Here](https://docs.google.com/document/d/1Z__ctW52pfz23cMU8gy8IPLWTGpKy9Vj5FK3lwP7Nns/edit?usp=sharing)** 
 
 - ⚡ Fun fact **I love challenges**
 <p align="left">
@@ -65,7 +65,7 @@ src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=r
 - MHACKS15 <a href=https://github.com/Vaani-pathariya/Aerofly><b>Here</b></a> <br>
 - Hack Around the World (MLH)  <a href=https://github.com/Vaani-pathariya/Dialect><b>Here</b></a><br>
 - Google Solution Challenge <a href=https://github.com/Vaani-pathariya/Education><b>Here</b></a><br>
-- Trident Hacks Round 1 winner
+- Trident Hacks'23 Nationals 2nd runner up
  <h2>HOBBIES :relaxed:</h2>
  <ul><li>Reading Books</li>
   <li>Painting and drawing</li>
