@@ -6,7 +6,7 @@
     <a href="https://github.com/Vaani-pathariya?tab=repositories">
         <img src="https://img.icons8.com/material-outlined/24/ffffff/github.png" height=25>
     </a>
-    <em style="position: relative; bottom: 7px;">Data Science and Devops enthusiast</em>
+    <em style="position: relative; bottom: 7px;">Machine Learning and Devops enthusiast</em>
 </em></p>
 
 [![Twitter](https://img.shields.io/badge/VaaniPathariya-Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/PathariyaVaani)
