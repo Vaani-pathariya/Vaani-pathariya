@@ -62,6 +62,7 @@ src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=r
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 <h2 align="left">HACKATHON LOG:</h2>
+- Samsung Solve for Tomorrow (Season 2) Top 30 winner
 - MHACKS15 <a href=https://github.com/Vaani-pathariya/Aerofly><b>Here</b></a> <br>
 - Hack Around the World (MLH)  <a href=https://github.com/Vaani-pathariya/Dialect><b>Here</b></a><br>
 - Google Solution Challenge <a href=https://github.com/Vaani-pathariya/Education><b>Here</b></a><br>
