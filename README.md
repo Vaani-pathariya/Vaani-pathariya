@@ -80,7 +80,7 @@ src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=r
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaani-Pathariya&layout=compact" alt="vaani-pathariya" /></p>
 <h2>EDUCATION: </h2>
 <ul>
-   <li>Currently I'm in second year pursuing BTECH from JSS Academy of Technical Education </li>
+   <li>Currently I'm in third year student pursuing BTECH from JSS Academy of Technical Education </li>
   <li>Completed 12th grade from Amity International School</li>
   <li>Completed 10th grade from Amity International School</li>
 </ul>
