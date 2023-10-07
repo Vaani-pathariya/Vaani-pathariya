@@ -23,8 +23,6 @@
 
 - 👨‍💻 All of my projects are available on **[Github](https://github.com/Vaani-pathariya)**
 
-- Find my Technical Blog **[Here](https://thetechdiaries.hashnode.dev/)**
-
 - 💬 Ask me about **Web Development and AI-ML**
 
 - 📫 Let's Connect **[Here](https://www.linkedin.com/in/vaani-pathariya-443888223/)**
