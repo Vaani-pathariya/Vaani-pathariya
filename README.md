@@ -6,7 +6,7 @@
     <a href="https://github.com/Vaani-pathariya?tab=repositories">
         <img src="https://img.icons8.com/material-outlined/24/ffffff/github.png" height=25>
     </a>
-    <em style="position: relative; bottom: 7px;">Machine Learning and Devops enthusiast</em>
+    <em style="position: relative; bottom: 7px;">Machine Learning</em>
 </em></p>
 
 [![Twitter](https://img.shields.io/badge/VaaniPathariya-Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/PathariyaVaani)
@@ -60,7 +60,9 @@ src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=r
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 <h2 align="left">HACKATHON LOG:</h2>
+- SIH 2023 Finalist<br>
 - Samsung Solve for Tomorrow (Season 2) Top 30 winner<br>
+- ICC |NIUM Next IN 2.0 Hackathon (Top 67 Winner worldwide)<br> 
 - Trident Hacks'23 Nationals 2nd runner up<br>
 - MHACKS15 <a href=https://github.com/Vaani-pathariya/Aerofly><b>Here</b></a> <br>
 - Hack Around the World (MLH)  <a href=https://github.com/Vaani-pathariya/Dialect><b>Here</b></a><br>
