@@ -11,9 +11,8 @@
 
 [![Twitter](https://img.shields.io/badge/VaaniPathariya-Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/PathariyaVaani)
 [![LinkedIn](https://img.shields.io/badge/VaaniPathariya-linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaani-pathariya-443888223/)
-[![Instagram](https://img.shields.io/badge/VaaniPathariya-Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vaanipathariya/)
 [![Kaggle](https://img.shields.io/badge/VaaniPathariya-Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vaanipathariya)
-[![LeetCode](https://img.shields.io/badge/VaaniPathariya-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/quantumm_/)
+[![LeetCode](https://img.shields.io/badge/VaaniPathariya-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/vaanipathariya/)
 [![CodeChef](https://img.shields.io/badge/VaaniPathariya-CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/vaani_pathariy)
 <a href="https://github.com/Vaani-pathariya"> ![GitHub followers](https://img.shields.io/github/followers/Vaani-Pathariya?label=Follow&style=social)</a>
 <h2 align="left">ABOUT ME 😉:</h2>
@@ -27,7 +26,7 @@
 
 - 📫 Let's Connect **[Here](https://www.linkedin.com/in/vaani-pathariya-443888223/)**
 
--  View my resume **[Here](https://docs.google.com/document/d/1Z__ctW52pfz23cMU8gy8IPLWTGpKy9Vj5FK3lwP7Nns/edit?usp=sharing)** 
+-  View my resume **[Here](https://drive.google.com/file/d/1rNeTEyJc3rB57B5YioQULNWtDJ7izi2F/view?usp=sharing)** 
 
 - ⚡ Fun fact **I love challenges**
 <p align="left">
