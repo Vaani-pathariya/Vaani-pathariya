@@ -1,4 +1,5 @@
 <!--👉 Hey ! you liked my profile ,feel free to give it a star 🌟 -->
+![Snake animation](https://raw.githubusercontent.com/Vaani-pathariya/Vaani-pathariya/output/github-contribution-grid-snake-dark.svg)
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vaani Pathariya</h1>
 <p align="center">
     <em style="position: relative; bottom: 7px;"> Full Stack web developer ,</em>
