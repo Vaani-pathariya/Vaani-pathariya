@@ -1,19 +1,11 @@
 <!--👉 Hey ! you liked my profile ,feel free to give it a star 🌟 -->
 ![Snake animation](https://raw.githubusercontent.com/Vaani-pathariya/Vaani-pathariya/output/github-contribution-grid-snake-dark.svg)
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vaani Pathariya</h1>
-<p align="center">
-    <em style="position: relative; bottom: 7px;"> Full Stack web developer ,</em>
-    <a href="https://github.com/Vaani-pathariya?tab=repositories">
-        <img src="https://img.icons8.com/material-outlined/24/ffffff/github.png" height=25>
-    </a>
-    <em style="position: relative; bottom: 7px;">Machine Learning</em>
-</em></p>
 
 [![Twitter](https://img.shields.io/badge/VaaniPathariya-Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/PathariyaVaani)
 [![LinkedIn](https://img.shields.io/badge/VaaniPathariya-linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaani-pathariya-443888223/)
-[![Kaggle](https://img.shields.io/badge/VaaniPathariya-Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vaanipathariya)
 [![LeetCode](https://img.shields.io/badge/VaaniPathariya-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/vaanipathariya/)
-[![CodeChef](https://img.shields.io/badge/VaaniPathariya-CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/vaani_pathariy)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/quantumm_)
 <a href="https://github.com/Vaani-pathariya"> ![GitHub followers](https://img.shields.io/github/followers/Vaani-Pathariya?label=Follow&style=social)</a>
 <h2 align="left">ABOUT ME 😉:</h2>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"  alt="Let's find solutions" width="375" align="right">
@@ -22,13 +14,11 @@
 
 - 👨‍💻 All of my projects are available on **[Github](https://github.com/Vaani-pathariya)**
 
-- 💬 Ask me about **Web Development and AI-ML**
-
 - 📫 Let's Connect **[Here](https://www.linkedin.com/in/vaani-pathariya-443888223/)**
 
--  View my resume **[Here](https://drive.google.com/file/d/1rNeTEyJc3rB57B5YioQULNWtDJ7izi2F/view?usp=sharing)** 
-
 - ⚡ Fun fact **I love challenges**
+
+-  Access my **[Resume](https://www.linkedin.com/in/vaani-pathariya/overlay/1725875684671/single-media-viewer/?profileId=ACoAADgxUHMByPmrmxcLrJupmTE_mvM498-YBDo)** here
 <p align="left">
 <h2 align="left">LANGUAGES AND TOOLS:</h2>
 <h3>Programming Languages</h3>
@@ -50,10 +40,7 @@ src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=r
 <p>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </p>
-<h3>Machine Learning</h3>
-<p>
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-</p>
+
 <h3>Others</h3>
 <p>
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
@@ -69,17 +56,16 @@ src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=r
  <h2>HOBBIES :relaxed:</h2>
  <ul><li>Reading Books</li>
   <li>Painting and drawing</li>
-  <li>Writing</li>
  </ul>
  <h2>DATA STRUCTURES AND ALGORITHMS</h2>
- <p>To be frank ,my major involvement is in the development side ,but still I try to study those as well from time to time. I have provided with my account links of leetcode and codechef if you are interested to have a look.:point_up:</p>
+ <p>I consistently keep on learning Data Structures and Algorithms on ⭐ leetcode (highest - 1625 rated) , and codeforces </p>
 <h2 align="left">NUMBERS:</h2>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=Vaani-Pathariya&show_icons=true&theme=tokyonight" alt="vaani-pathariya" /></p>
  <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vaani-pathariya&theme=dark" alt="vaani-pathariya" /></p>
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaani-Pathariya&layout=compact" alt="vaani-pathariya" /></p>
 <h2>EDUCATION: </h2>
 <ul>
-   <li>Currently I'm in third year student pursuing BTECH from JSS Academy of Technical Education </li>
+   <li>Currently in my 4th year pursuing BTECH from JSS Academy of Technical Education </li>
   <li>Completed 12th grade from Amity International School</li>
   <li>Completed 10th grade from Amity International School</li>
 </ul>
