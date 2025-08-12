@@ -34,10 +34,6 @@ src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=r
 <p>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
-<h3>Devops</h3>
-<p>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-</p>
 
 <h3>Others</h3>
 <p>
@@ -63,7 +59,7 @@ src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=r
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaani-Pathariya&layout=compact" alt="vaani-pathariya" /></p>
 <h2>EDUCATION: </h2>
 <ul>
-   <li>Currently in my 4th year pursuing BTECH from JSS Academy of Technical Education </li>
+  <li>Completed my BTECH from JSS Academy of Technical Education </li>
   <li>Completed 12th grade from Amity International School</li>
   <li>Completed 10th grade from Amity International School</li>
 </ul>
