@@ -18,8 +18,6 @@
 
 - ⚡ Fun fact **I love challenges**
 
--  Access my **[Resume](https://www.linkedin.com/in/vaani-pathariya/overlay/1725976682915/single-media-viewer/?profileId=ACoAADgxUHMByPmrmxcLrJupmTE_mvM498-YBDo)** here
-<p align="left">
 <h2 align="left">LANGUAGES AND TOOLS:</h2>
 <h3>Programming Languages</h3>
 <p>
